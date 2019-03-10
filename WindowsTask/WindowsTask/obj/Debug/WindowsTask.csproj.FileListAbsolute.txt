@@ -1,0 +1,12 @@
+c:\users\akira\source\repos\WindowsTask\WindowsTask\bin\Debug\WindowsTask.exe.config
+c:\users\akira\source\repos\WindowsTask\WindowsTask\bin\Debug\WindowsTask.exe
+c:\users\akira\source\repos\WindowsTask\WindowsTask\bin\Debug\WindowsTask.pdb
+c:\users\akira\source\repos\WindowsTask\WindowsTask\obj\Debug\WindowsTask.Form1.resources
+c:\users\akira\source\repos\WindowsTask\WindowsTask\obj\Debug\WindowsTask.Properties.Resources.resources
+c:\users\akira\source\repos\WindowsTask\WindowsTask\obj\Debug\WindowsTask.UserControl1.resources
+c:\users\akira\source\repos\WindowsTask\WindowsTask\obj\Debug\WindowsTask.UserControl2.resources
+c:\users\akira\source\repos\WindowsTask\WindowsTask\obj\Debug\WindowsTask.csproj.GenerateResource.cache
+c:\users\akira\source\repos\WindowsTask\WindowsTask\obj\Debug\WindowsTask.csproj.CoreCompileInputs.cache
+c:\users\akira\source\repos\WindowsTask\WindowsTask\obj\Debug\WindowsTask.exe
+c:\users\akira\source\repos\WindowsTask\WindowsTask\obj\Debug\WindowsTask.pdb
+c:\users\akira\source\repos\WindowsTask\WindowsTask\obj\Debug\WindowsTask.csprojAssemblyReference.cache

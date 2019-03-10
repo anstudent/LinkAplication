@@ -1,0 +1,11 @@
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\bin\Release\WindowsTask.exe.config
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\bin\Release\WindowsTask.exe
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\bin\Release\WindowsTask.pdb
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\obj\Release\WindowsTask.Form1.resources
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\obj\Release\WindowsTask.Properties.Resources.resources
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\obj\Release\WindowsTask.UserControl1.resources
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\obj\Release\WindowsTask.UserControl2.resources
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\obj\Release\WindowsTask.csproj.GenerateResource.cache
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\obj\Release\WindowsTask.csproj.CoreCompileInputs.cache
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\obj\Release\WindowsTask.exe
+C:\Users\akira\source\repos\WindowsTask\WindowsTask\obj\Release\WindowsTask.pdb
